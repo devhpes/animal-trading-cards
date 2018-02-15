@@ -1,0 +1,38 @@
+#block{
+  width: 300px;
+  border-style: solid;
+  border-width: 1px;
+  border-color:#D4D4D4;
+  padding: 0px 10px 10px 10px;
+  box-shadow: 9px 9px 5px -1px rgba(233,234,233,1);
+}
+
+.image{
+  width: 300px;
+}
+
+h3{
+  font-size: 28px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  padding:0px;
+}
+
+.labelbold{
+  font-weight:bold;
+}
+
+.blockdiv{
+      border: 1px solid #D4D4D4;
+      margin-top: 15px;
+      padding: 6px;
+      padding-top: 1px;
+
+}
+
+ul, .linostyle {
+  list-style-type: none;
+  list-style-position: left;
+  margin: 0px;
+  padding: 0px;
+}
